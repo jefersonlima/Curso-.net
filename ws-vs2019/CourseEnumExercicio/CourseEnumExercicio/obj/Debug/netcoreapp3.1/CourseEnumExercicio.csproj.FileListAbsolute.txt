@@ -1,0 +1,13 @@
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnumExercicio\CourseEnumExercicio\bin\Debug\netcoreapp3.1\CourseEnumExercicio.exe
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnumExercicio\CourseEnumExercicio\bin\Debug\netcoreapp3.1\CourseEnumExercicio.deps.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnumExercicio\CourseEnumExercicio\bin\Debug\netcoreapp3.1\CourseEnumExercicio.runtimeconfig.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnumExercicio\CourseEnumExercicio\bin\Debug\netcoreapp3.1\CourseEnumExercicio.runtimeconfig.dev.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnumExercicio\CourseEnumExercicio\bin\Debug\netcoreapp3.1\CourseEnumExercicio.dll
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnumExercicio\CourseEnumExercicio\bin\Debug\netcoreapp3.1\CourseEnumExercicio.pdb
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnumExercicio\CourseEnumExercicio\obj\Debug\netcoreapp3.1\CourseEnumExercicio.csprojAssemblyReference.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnumExercicio\CourseEnumExercicio\obj\Debug\netcoreapp3.1\CourseEnumExercicio.AssemblyInfoInputs.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnumExercicio\CourseEnumExercicio\obj\Debug\netcoreapp3.1\CourseEnumExercicio.AssemblyInfo.cs
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnumExercicio\CourseEnumExercicio\obj\Debug\netcoreapp3.1\CourseEnumExercicio.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnumExercicio\CourseEnumExercicio\obj\Debug\netcoreapp3.1\CourseEnumExercicio.dll
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnumExercicio\CourseEnumExercicio\obj\Debug\netcoreapp3.1\CourseEnumExercicio.pdb
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnumExercicio\CourseEnumExercicio\obj\Debug\netcoreapp3.1\CourseEnumExercicio.genruntimeconfig.cache
