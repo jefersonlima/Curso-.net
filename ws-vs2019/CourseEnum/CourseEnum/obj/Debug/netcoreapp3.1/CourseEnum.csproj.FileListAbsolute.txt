@@ -1,0 +1,13 @@
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnum\CourseEnum\bin\Debug\netcoreapp3.1\CourseEnum.exe
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnum\CourseEnum\bin\Debug\netcoreapp3.1\CourseEnum.deps.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnum\CourseEnum\bin\Debug\netcoreapp3.1\CourseEnum.runtimeconfig.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnum\CourseEnum\bin\Debug\netcoreapp3.1\CourseEnum.runtimeconfig.dev.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnum\CourseEnum\bin\Debug\netcoreapp3.1\CourseEnum.dll
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnum\CourseEnum\bin\Debug\netcoreapp3.1\CourseEnum.pdb
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnum\CourseEnum\obj\Debug\netcoreapp3.1\CourseEnum.csprojAssemblyReference.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnum\CourseEnum\obj\Debug\netcoreapp3.1\CourseEnum.AssemblyInfoInputs.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnum\CourseEnum\obj\Debug\netcoreapp3.1\CourseEnum.AssemblyInfo.cs
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnum\CourseEnum\obj\Debug\netcoreapp3.1\CourseEnum.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnum\CourseEnum\obj\Debug\netcoreapp3.1\CourseEnum.dll
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnum\CourseEnum\obj\Debug\netcoreapp3.1\CourseEnum.pdb
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnum\CourseEnum\obj\Debug\netcoreapp3.1\CourseEnum.genruntimeconfig.cache
