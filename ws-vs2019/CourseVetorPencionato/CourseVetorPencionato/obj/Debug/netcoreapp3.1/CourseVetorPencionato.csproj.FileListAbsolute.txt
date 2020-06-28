@@ -1,0 +1,13 @@
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseVetorPencionato\CourseVetorPencionato\bin\Debug\netcoreapp3.1\CourseVetorPencionato.exe
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseVetorPencionato\CourseVetorPencionato\bin\Debug\netcoreapp3.1\CourseVetorPencionato.deps.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseVetorPencionato\CourseVetorPencionato\bin\Debug\netcoreapp3.1\CourseVetorPencionato.runtimeconfig.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseVetorPencionato\CourseVetorPencionato\bin\Debug\netcoreapp3.1\CourseVetorPencionato.runtimeconfig.dev.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseVetorPencionato\CourseVetorPencionato\bin\Debug\netcoreapp3.1\CourseVetorPencionato.dll
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseVetorPencionato\CourseVetorPencionato\bin\Debug\netcoreapp3.1\CourseVetorPencionato.pdb
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseVetorPencionato\CourseVetorPencionato\obj\Debug\netcoreapp3.1\CourseVetorPencionato.csprojAssemblyReference.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseVetorPencionato\CourseVetorPencionato\obj\Debug\netcoreapp3.1\CourseVetorPencionato.AssemblyInfoInputs.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseVetorPencionato\CourseVetorPencionato\obj\Debug\netcoreapp3.1\CourseVetorPencionato.AssemblyInfo.cs
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseVetorPencionato\CourseVetorPencionato\obj\Debug\netcoreapp3.1\CourseVetorPencionato.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseVetorPencionato\CourseVetorPencionato\obj\Debug\netcoreapp3.1\CourseVetorPencionato.dll
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseVetorPencionato\CourseVetorPencionato\obj\Debug\netcoreapp3.1\CourseVetorPencionato.pdb
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseVetorPencionato\CourseVetorPencionato\obj\Debug\netcoreapp3.1\CourseVetorPencionato.genruntimeconfig.cache

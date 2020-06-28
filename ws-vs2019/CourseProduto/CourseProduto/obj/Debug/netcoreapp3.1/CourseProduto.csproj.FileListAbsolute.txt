@@ -1,0 +1,13 @@
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseProduto\CourseProduto\bin\Debug\netcoreapp3.1\CourseProduto.exe
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseProduto\CourseProduto\bin\Debug\netcoreapp3.1\CourseProduto.deps.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseProduto\CourseProduto\bin\Debug\netcoreapp3.1\CourseProduto.runtimeconfig.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseProduto\CourseProduto\bin\Debug\netcoreapp3.1\CourseProduto.runtimeconfig.dev.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseProduto\CourseProduto\bin\Debug\netcoreapp3.1\CourseProduto.dll
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseProduto\CourseProduto\bin\Debug\netcoreapp3.1\CourseProduto.pdb
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseProduto\CourseProduto\obj\Debug\netcoreapp3.1\CourseProduto.csprojAssemblyReference.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseProduto\CourseProduto\obj\Debug\netcoreapp3.1\CourseProduto.AssemblyInfoInputs.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseProduto\CourseProduto\obj\Debug\netcoreapp3.1\CourseProduto.AssemblyInfo.cs
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseProduto\CourseProduto\obj\Debug\netcoreapp3.1\CourseProduto.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseProduto\CourseProduto\obj\Debug\netcoreapp3.1\CourseProduto.dll
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseProduto\CourseProduto\obj\Debug\netcoreapp3.1\CourseProduto.pdb
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseProduto\CourseProduto\obj\Debug\netcoreapp3.1\CourseProduto.genruntimeconfig.cache

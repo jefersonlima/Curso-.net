@@ -1,0 +1,13 @@
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseMatriz\CourseMatriz\bin\Debug\netcoreapp3.1\CourseMatriz.exe
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseMatriz\CourseMatriz\bin\Debug\netcoreapp3.1\CourseMatriz.deps.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseMatriz\CourseMatriz\bin\Debug\netcoreapp3.1\CourseMatriz.runtimeconfig.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseMatriz\CourseMatriz\bin\Debug\netcoreapp3.1\CourseMatriz.runtimeconfig.dev.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseMatriz\CourseMatriz\bin\Debug\netcoreapp3.1\CourseMatriz.dll
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseMatriz\CourseMatriz\bin\Debug\netcoreapp3.1\CourseMatriz.pdb
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseMatriz\CourseMatriz\obj\Debug\netcoreapp3.1\CourseMatriz.csprojAssemblyReference.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseMatriz\CourseMatriz\obj\Debug\netcoreapp3.1\CourseMatriz.AssemblyInfoInputs.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseMatriz\CourseMatriz\obj\Debug\netcoreapp3.1\CourseMatriz.AssemblyInfo.cs
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseMatriz\CourseMatriz\obj\Debug\netcoreapp3.1\CourseMatriz.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseMatriz\CourseMatriz\obj\Debug\netcoreapp3.1\CourseMatriz.dll
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseMatriz\CourseMatriz\obj\Debug\netcoreapp3.1\CourseMatriz.pdb
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseMatriz\CourseMatriz\obj\Debug\netcoreapp3.1\CourseMatriz.genruntimeconfig.cache

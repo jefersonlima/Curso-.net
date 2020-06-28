@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IntroducaoProgramacaoOrientadaObjetosExecicio2/1.0.0": {
+        "runtime": {
+          "IntroducaoProgramacaoOrientadaObjetosExecicio2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IntroducaoProgramacaoOrientadaObjetosExecicio2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

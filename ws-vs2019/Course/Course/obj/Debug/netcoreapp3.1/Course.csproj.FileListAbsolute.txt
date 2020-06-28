@@ -1,0 +1,13 @@
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\Course\Course\bin\Debug\netcoreapp3.1\Course.exe
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\Course\Course\bin\Debug\netcoreapp3.1\Course.deps.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.dev.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\Course\Course\bin\Debug\netcoreapp3.1\Course.dll
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\Course\Course\bin\Debug\netcoreapp3.1\Course.pdb
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\Course\Course\obj\Debug\netcoreapp3.1\Course.csprojAssemblyReference.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfo.cs
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\Course\Course\obj\Debug\netcoreapp3.1\Course.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\Course\Course\obj\Debug\netcoreapp3.1\Course.dll
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\Course\Course\obj\Debug\netcoreapp3.1\Course.pdb
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\Course\Course\obj\Debug\netcoreapp3.1\Course.genruntimeconfig.cache

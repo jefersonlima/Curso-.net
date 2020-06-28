@@ -1,0 +1,13 @@
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseContaOO\CourseContaOO\bin\Debug\netcoreapp3.1\CourseContaOO.exe
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseContaOO\CourseContaOO\bin\Debug\netcoreapp3.1\CourseContaOO.deps.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseContaOO\CourseContaOO\bin\Debug\netcoreapp3.1\CourseContaOO.runtimeconfig.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseContaOO\CourseContaOO\bin\Debug\netcoreapp3.1\CourseContaOO.runtimeconfig.dev.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseContaOO\CourseContaOO\bin\Debug\netcoreapp3.1\CourseContaOO.dll
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseContaOO\CourseContaOO\bin\Debug\netcoreapp3.1\CourseContaOO.pdb
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseContaOO\CourseContaOO\obj\Debug\netcoreapp3.1\CourseContaOO.csprojAssemblyReference.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseContaOO\CourseContaOO\obj\Debug\netcoreapp3.1\CourseContaOO.AssemblyInfoInputs.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseContaOO\CourseContaOO\obj\Debug\netcoreapp3.1\CourseContaOO.AssemblyInfo.cs
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseContaOO\CourseContaOO\obj\Debug\netcoreapp3.1\CourseContaOO.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseContaOO\CourseContaOO\obj\Debug\netcoreapp3.1\CourseContaOO.dll
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseContaOO\CourseContaOO\obj\Debug\netcoreapp3.1\CourseContaOO.pdb
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseContaOO\CourseContaOO\obj\Debug\netcoreapp3.1\CourseContaOO.genruntimeconfig.cache

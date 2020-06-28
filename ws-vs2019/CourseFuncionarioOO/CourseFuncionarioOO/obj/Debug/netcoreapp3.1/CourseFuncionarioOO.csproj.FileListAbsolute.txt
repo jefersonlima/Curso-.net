@@ -1,0 +1,13 @@
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseFuncionarioOO\CourseFuncionarioOO\bin\Debug\netcoreapp3.1\CourseFuncionarioOO.exe
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseFuncionarioOO\CourseFuncionarioOO\bin\Debug\netcoreapp3.1\CourseFuncionarioOO.deps.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseFuncionarioOO\CourseFuncionarioOO\bin\Debug\netcoreapp3.1\CourseFuncionarioOO.runtimeconfig.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseFuncionarioOO\CourseFuncionarioOO\bin\Debug\netcoreapp3.1\CourseFuncionarioOO.runtimeconfig.dev.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseFuncionarioOO\CourseFuncionarioOO\bin\Debug\netcoreapp3.1\CourseFuncionarioOO.dll
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseFuncionarioOO\CourseFuncionarioOO\bin\Debug\netcoreapp3.1\CourseFuncionarioOO.pdb
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseFuncionarioOO\CourseFuncionarioOO\obj\Debug\netcoreapp3.1\CourseFuncionarioOO.csprojAssemblyReference.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseFuncionarioOO\CourseFuncionarioOO\obj\Debug\netcoreapp3.1\CourseFuncionarioOO.AssemblyInfoInputs.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseFuncionarioOO\CourseFuncionarioOO\obj\Debug\netcoreapp3.1\CourseFuncionarioOO.AssemblyInfo.cs
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseFuncionarioOO\CourseFuncionarioOO\obj\Debug\netcoreapp3.1\CourseFuncionarioOO.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseFuncionarioOO\CourseFuncionarioOO\obj\Debug\netcoreapp3.1\CourseFuncionarioOO.dll
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseFuncionarioOO\CourseFuncionarioOO\obj\Debug\netcoreapp3.1\CourseFuncionarioOO.pdb
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseFuncionarioOO\CourseFuncionarioOO\obj\Debug\netcoreapp3.1\CourseFuncionarioOO.genruntimeconfig.cache

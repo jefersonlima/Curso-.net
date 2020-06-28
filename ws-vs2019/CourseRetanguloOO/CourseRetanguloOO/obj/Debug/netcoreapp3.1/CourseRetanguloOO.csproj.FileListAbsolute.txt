@@ -1,0 +1,13 @@
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseRetanguloOO\CourseRetanguloOO\bin\Debug\netcoreapp3.1\CourseRetanguloOO.exe
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseRetanguloOO\CourseRetanguloOO\bin\Debug\netcoreapp3.1\CourseRetanguloOO.deps.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseRetanguloOO\CourseRetanguloOO\bin\Debug\netcoreapp3.1\CourseRetanguloOO.runtimeconfig.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseRetanguloOO\CourseRetanguloOO\bin\Debug\netcoreapp3.1\CourseRetanguloOO.runtimeconfig.dev.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseRetanguloOO\CourseRetanguloOO\bin\Debug\netcoreapp3.1\CourseRetanguloOO.dll
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseRetanguloOO\CourseRetanguloOO\bin\Debug\netcoreapp3.1\CourseRetanguloOO.pdb
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseRetanguloOO\CourseRetanguloOO\obj\Debug\netcoreapp3.1\CourseRetanguloOO.csprojAssemblyReference.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseRetanguloOO\CourseRetanguloOO\obj\Debug\netcoreapp3.1\CourseRetanguloOO.AssemblyInfoInputs.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseRetanguloOO\CourseRetanguloOO\obj\Debug\netcoreapp3.1\CourseRetanguloOO.AssemblyInfo.cs
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseRetanguloOO\CourseRetanguloOO\obj\Debug\netcoreapp3.1\CourseRetanguloOO.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseRetanguloOO\CourseRetanguloOO\obj\Debug\netcoreapp3.1\CourseRetanguloOO.dll
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseRetanguloOO\CourseRetanguloOO\obj\Debug\netcoreapp3.1\CourseRetanguloOO.pdb
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseRetanguloOO\CourseRetanguloOO\obj\Debug\netcoreapp3.1\CourseRetanguloOO.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\Debug\Debug\bin\Debug\netcoreapp3.1\Debug.exe
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\Debug\Debug\bin\Debug\netcoreapp3.1\Debug.deps.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\Debug\Debug\bin\Debug\netcoreapp3.1\Debug.runtimeconfig.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\Debug\Debug\bin\Debug\netcoreapp3.1\Debug.runtimeconfig.dev.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\Debug\Debug\bin\Debug\netcoreapp3.1\Debug.dll
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\Debug\Debug\bin\Debug\netcoreapp3.1\Debug.pdb
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\Debug\Debug\obj\Debug\netcoreapp3.1\Debug.csprojAssemblyReference.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\Debug\Debug\obj\Debug\netcoreapp3.1\Debug.AssemblyInfoInputs.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\Debug\Debug\obj\Debug\netcoreapp3.1\Debug.AssemblyInfo.cs
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\Debug\Debug\obj\Debug\netcoreapp3.1\Debug.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\Debug\Debug\obj\Debug\netcoreapp3.1\Debug.dll
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\Debug\Debug\obj\Debug\netcoreapp3.1\Debug.pdb
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\Debug\Debug\obj\Debug\netcoreapp3.1\Debug.genruntimeconfig.cache
