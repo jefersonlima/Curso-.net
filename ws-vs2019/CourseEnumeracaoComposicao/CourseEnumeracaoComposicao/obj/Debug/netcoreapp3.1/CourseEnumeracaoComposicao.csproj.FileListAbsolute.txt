@@ -1,0 +1,13 @@
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnumeracaoComposicao\CourseEnumeracaoComposicao\bin\Debug\netcoreapp3.1\CourseEnumeracaoComposicao.exe
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnumeracaoComposicao\CourseEnumeracaoComposicao\bin\Debug\netcoreapp3.1\CourseEnumeracaoComposicao.deps.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnumeracaoComposicao\CourseEnumeracaoComposicao\bin\Debug\netcoreapp3.1\CourseEnumeracaoComposicao.runtimeconfig.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnumeracaoComposicao\CourseEnumeracaoComposicao\bin\Debug\netcoreapp3.1\CourseEnumeracaoComposicao.runtimeconfig.dev.json
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnumeracaoComposicao\CourseEnumeracaoComposicao\bin\Debug\netcoreapp3.1\CourseEnumeracaoComposicao.dll
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnumeracaoComposicao\CourseEnumeracaoComposicao\bin\Debug\netcoreapp3.1\CourseEnumeracaoComposicao.pdb
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnumeracaoComposicao\CourseEnumeracaoComposicao\obj\Debug\netcoreapp3.1\CourseEnumeracaoComposicao.csprojAssemblyReference.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnumeracaoComposicao\CourseEnumeracaoComposicao\obj\Debug\netcoreapp3.1\CourseEnumeracaoComposicao.AssemblyInfoInputs.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnumeracaoComposicao\CourseEnumeracaoComposicao\obj\Debug\netcoreapp3.1\CourseEnumeracaoComposicao.AssemblyInfo.cs
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnumeracaoComposicao\CourseEnumeracaoComposicao\obj\Debug\netcoreapp3.1\CourseEnumeracaoComposicao.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnumeracaoComposicao\CourseEnumeracaoComposicao\obj\Debug\netcoreapp3.1\CourseEnumeracaoComposicao.dll
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnumeracaoComposicao\CourseEnumeracaoComposicao\obj\Debug\netcoreapp3.1\CourseEnumeracaoComposicao.pdb
+C:\Users\jefer\Desktop\2 Estudos\C#.Dot\ws-vs2019\CourseEnumeracaoComposicao\CourseEnumeracaoComposicao\obj\Debug\netcoreapp3.1\CourseEnumeracaoComposicao.genruntimeconfig.cache
